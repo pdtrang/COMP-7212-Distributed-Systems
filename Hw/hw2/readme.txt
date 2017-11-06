@@ -4,7 +4,7 @@ REQUIREMENT:
 
 HOW TO RUN:
 
-	python hw2.py
+	python chord.py
 
 FEATURES:
 	- The program will ask for a node ID to initialize Chord.
