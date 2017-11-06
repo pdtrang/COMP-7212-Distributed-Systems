@@ -12,7 +12,7 @@ from scipy import spatial
 import random
 from plotly import *
 
-tools.set_credentials_file(username='dpham2', api_key='CR8ILYdEJVyJCz50syaA')
+tools.set_credentials_file(username='username', api_key='key')
 
 # edges trace for plot
 def get_edge_trace(G):
